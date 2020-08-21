@@ -1,0 +1,100 @@
+﻿10,8,1,1,0,1,0,1,Without Much Risk
+11,6,2,0,0,3,0,1,Without Much Risk
+21,4,0,1,0,1,0,1,Without Much Risk
+18,3,6,0,1,0,0,0,Without Much Risk
+35,1,1,1,0,2,0,3,Without Much Risk
+18,2,1,3,0,1,0,2,Without Much Risk
+22,11,3,2,0,1,0,2,Without Much Risk
+10,3,2,1,0,1,0,1,Without Much Risk
+20,2,0,3,0,1,0,2,Without Much Risk
+15,2,1,2,0,0,1,2,Without Much Risk
+17,4,3,3,0,1,0,2,Without Much Risk
+11,5,1,2,0,2,0,1,Without Much Risk
+28,5,2,2,0,1,1,2,Without Much Risk
+15,4,2,2,0,0,1,1,Without Much Risk
+14,4,1,1,0,1,0,0,Without Much Risk
+20,8,1,3,0,2,0,3,Without Much Risk
+28,11,1,4,0,2,0,1,Without Much Risk
+16,4,4,3,0,1,0,1,Without Much Risk
+24,7,1,3,0,2,0,4,Without Much Risk
+24,7,1,3,0,2,0,4,Without Much Risk
+22,6,3,2,0,1,1,3,Without Much Risk
+18,7,2,2,0,2,0,2,Without Much Risk
+31,3,0,5,0,0,0,1,Without Much Risk
+20,2,2,4,0,1,0,3,Without Much Risk
+14,2,1,1,0,1,0,0,Without Much Risk
+17,0,2,3,0,0,0,1,Without Much Risk
+20,2,2,5,0,1,0,1,Without Much Risk
+30,14,1,4,0,2,0,3,Without Much Risk
+29,6,2,5,0,0,0,2,Without Much Risk
+30,4,2,3,0,2,0,3,Without Much Risk
+27,4,2,9,1,0,0,2,Without Much Risk
+21,4,2,3,0,1,0,2,Without Much Risk
+30,4,2,3,0,2,0,3,Without Much Risk
+34,2,2,4,0,0,1,2,Without Much Risk
+18,3,1,1,0,1,0,0,Without Much Risk
+40,2,2,1,0,5,1,3,Without Much Risk
+28,4,0,2,1,0,1,3,Without Much Risk
+36,10,1,6,0,1,0,1,Without Much Risk
+23,4,3,3,0,2,0,1,Without Much Risk
+29,10,2,4,0,0,1,2,Without Much Risk
+27,11,3,5,0,0,1,0,Without Much Risk
+20,5,1,2,0,2,0,1,Without Much Risk
+27,11,3,5,0,0,1,0,Without Much Risk
+22,7,2,4,0,1,0,3,Without Much Risk
+45,3,1,6,0,0,0,3,Without Much Risk
+22,1,2,5,0,1,0,1,Without Much Risk
+20,7,0,3,0,1,1,1,Without Much Risk
+33,14,3,4,0,2,1,1,Without Much Risk
+34,9,5,4,0,0,0,2,Without Much Risk
+19,8,0,5,0,2,0,5,Without Much Risk
+34,9,5,4,0,0,0,2,Without Much Risk
+27,7,0,4,0,4,0,3,Without Much Risk
+37,9,2,6,1,0,0,3,Without Much Risk
+14,7,2,2,0,0,1,1,Without Much Risk
+26,5,2,6,0,0,1,2,Without Much Risk
+28,5,1,5,0,3,0,2,Without Much Risk
+32,12,1,6,0,0,0,2,Without Much Risk
+27,5,5,6,0,0,0,1,Without Much Risk
+18,10,0,6,0,0,1,1,Without Much Risk
+23,8,0,3,0,2,0,1,Moderate Risk
+27,7,2,7,0,2,0,4,Moderate Risk
+42,9,1,6,0,1,0,2,Moderate Risk
+49,9,1,9,0,1,1,3,Moderate Risk
+33,7,2,6,0,1,0,3,Moderate Risk
+33,5,2,5,0,1,1,2,Moderate Risk
+30,13,3,6,0,0,1,0,Moderate Risk
+28,4,1,7,0,0,0,1,Moderate Risk
+49,9,0,5,0,3,0,3,Moderate Risk
+38,13,5,6,0,0,1,4,Moderate Risk
+38,13,5,6,0,0,1,4,Moderate Risk
+28,3,3,2,1,0,0,0,Moderate Risk
+34,16,1,5,0,2,0,3,Moderate Risk
+60,13,3,10,0,0,2,3,Moderate Risk
+60,13,3,10,0,0,2,3,Moderate Risk
+24,11,2,5,0,0,0,2,Moderate Risk
+47,14,1,8,0,1,0,3,Moderate Risk
+33,6,3,6,0,0,0,1,Moderate Risk
+29,9,2,8,0,1,1,1,Moderate Risk
+44,10,0,5,0,6,0,4,Moderate Risk
+33,5,0,3,0,0,2,1,Moderate Risk
+45,6,3,8,0,1,0,3,Moderate Risk
+25,6,4,11,0,0,0,3,Moderate Risk
+16,7,3,4,0,2,0,3,Moderate Risk
+50,15,0,8,0,5,0,6,Moderate Risk
+37,2,0,9,0,1,0,1,Moderate Risk
+36,11,5,9,0,0,1,2,Moderate Risk
+36,11,5,9,0,0,1,2,Moderate Risk
+58,7,3,14,0,2,0,3,High Risk
+37,11,5,6,0,0,1,2,High Risk
+37,11,5,6,0,0,1,2,High Risk
+52,14,5,8,0,1,0,3,High Risk
+49,13,1,10,0,2,0,2,High Risk
+83,16,1,11,0,3,0,3,High Risk
+57,6,1,12,0,0,0,3,High Risk
+61,14,0,12,0,1,0,3,High Risk
+110,37,1,18,0,7,0,2,High Risk
+69,8,0,18,0,1,0,3,High Risk
+65,8,0,8,2,0,0,2,High Risk
+96,28,1,16,0,1,0,4,High Risk
+112,34,1,24,0,3,0,4,High Risk
